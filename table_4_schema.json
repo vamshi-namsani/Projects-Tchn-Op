@@ -1,0 +1,9 @@
+
+[
+    {"name": "order_id", "type": "INTEGER", "model": "REQUIRED"},
+    {"name": "order_date","type": "DATE", "mode": "REQUIRED"},
+    {"name": "customer_name","type": "STRING", "mode": "REQUIRED"},
+    {"name": "total_}amount","type": "FLOAT", "mode": "REQUIRED"}
+    
+    
+]
